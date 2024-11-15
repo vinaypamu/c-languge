@@ -1,9 +1,9 @@
-/*1)using while ,do while and for loops :
- *
- * *
- * * *
- * * * *
- * * * * *
+/* 1)using while ,do while and for loops :
+ *              
+ * *          
+ * * *           
+ * * * *        
+ * * * * *          
  * * * * * *      */
 /*  2)using while ,do while and for loops :
      * * * * * *
